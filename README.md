@@ -1,6 +1,16 @@
 # Flutter APP
 This is a Flutter application that fetches data from a Node.js backend and displays it in a list. The app uses Flutter's http package to make HTTP requests to a specific API endpoint in the Node.js backend.
 
+# Feature
+Fetches data from a Node.js backend using HTTP GET request.
+render the fetched data in a list view.
+Implements pull-to-refresh functionality to manually update the data. Refresh Indicator
+Implements error handling to display a message in case of network or server errors.
+Implements loading indicators to show the data is loading.
+Implements refresh button to refresh the app.
+
+
+
 ## Tech Stack
 Flutter ExpressJS MongoDb Mongoose
 
