@@ -1,4 +1,5 @@
 # Flutter APP
+This is a Flutter application that fetches data from a Node.js backend and displays it in a list. The app uses Flutter's http package to make HTTP requests to a specific API endpoint in the Node.js backend.
 
 ## Tech Stack
 Flutter ExpressJS MongoDb Mongoose
